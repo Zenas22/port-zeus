@@ -1,0 +1,12 @@
+
+.crop{
+  float: left;
+  width: 500px;
+  height: 500px;
+  overflow: hidden;
+}
+.crop img{
+  width: 680px;
+  height: 500px;
+  margin: -150px 0 0 -150px;
+}
