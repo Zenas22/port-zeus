@@ -43,5 +43,33 @@ p.about{
 .crop img{
   width: 680px;
   height: 500px;
-  margin: -150px 0 0 -150px;
+  margin: -100px 0 0 -100px;
+}
+.projects{
+  border: 3px #16200B;
+  padding: 6px;
+  margin: 10px;
+}
+.about{
+  border: 3px;
+  padding: 6px;
+  margin: 10px;
+}
+#moreabout{
+  font-style: italic;
+}
+img{
+  padding: 2px;
+  border: 5px;
+}
+@media screen and (min-width: 480px) and (max-width: 767px) {
+    body {
+        background-color: #9ED065;
+        color: white;
+    }
+}
+@media screen and (min-width: 768px) {
+  body {
+    background-color: #9ED065;
+  }
 }
