@@ -1,4 +1,7 @@
-
+body{
+  background-image: url(../images/background.jpg);
+  background-size: cover;
+}
 h3.about{
   font-weight: bold;
 }
