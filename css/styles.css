@@ -1,12 +1,16 @@
-
+body{
+  background-color: #DAF7A6;
+}
 h3.about{
   font-weight: bold;
+  color: #581845;
 }
 p.about{
   font-size: 12px;
   font-family: cursive;
   font-style: normal;
   font-weight: normal;
+  color: #FFC300;
 }
 .projects{
   float: left;
