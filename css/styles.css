@@ -1,5 +1,27 @@
-.about{
 
+h3.about{
+  font-weight: bold;
+}
+p.about{
+  font-size: 12px;
+  font-family: cursive;
+  font-style: normal;
+  font-weight: normal;
+}
+.projects{
+  float: left;
+  text-align: left;
+}
+.crop2{
+  float: right;
+  width: 500px;
+  height: 500px;
+  overflow:hidden;
+}
+.crop2 img{
+  width: 680px;
+  height: 500px;
+  margin: -150px 0 0 -150px;
 }
 .crop{
   float: left;
