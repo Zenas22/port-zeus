@@ -1,9 +1,17 @@
+h2,h3{
+  color: #11170A ;
+}
+p{
+  color: #D5E7C2;
+}
 body{
   background-image: url(../images/background.jpg);
   background-size: cover;
 }
 h3.about{
   font-weight: bold;
+  font-family: cursive;
+  color: #1C2610;
 }
 p.about{
   font-size: 12px;
